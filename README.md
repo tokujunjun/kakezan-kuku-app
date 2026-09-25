@@ -782,7 +782,7 @@
                 state.stars += 1;
                 saveProgress();
                 fb.className = "text-purple-600 font-black";
-                fb.innerText = "🎉 せいかい！ つぎの問題にいくよ！";
+                fb.innerText = "🎉 せいかい！つぎの問題にいくよ！";
                 setTimeout(startMushikuiQuiz, 800);
             } else {
                 playSound('wrong');
