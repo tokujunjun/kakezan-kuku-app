@@ -273,7 +273,7 @@
                         <h2 class="text-xl font-black text-slate-800 flex items-center gap-2">
                             <i class="fa-solid fa-puzzle-piece text-purple-500"></i> むしくいクイズ（穴埋め）
                         </h2>
-                        <p class="text-xs text-slate-500 font-bold">しかく「？」にあてはまる正しい数字を考えよう！</p>
+                        <p class="text-xs text-slate-500 font-bold">「？」にあてはまる正しい数字を考えよう！</p>
                     </div>
                     <button onclick="startMushikuiQuiz()" class="pop-btn bg-purple-500 hover:bg-purple-600 text-white font-black text-xs px-4 py-2 rounded-xl shadow-sm">
                         つぎの問題 <i class="fa-solid fa-rotate-right"></i>
