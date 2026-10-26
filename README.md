@@ -167,7 +167,7 @@
                     <div class="space-y-1 text-center sm:text-left">
                         <div class="text-xs font-bold text-amber-700">選択中のかけ算</div>
                         <div id="dotFormulaDisplay" class="text-2xl font-black text-slate-800">3 × 4 = 12</div>
-                        <div id="dotReadingDisplay" class="text-sm font-bold text-amber-800">さざんがじゅうに</div>
+                        <div id="dotReadingDisplay" class="text-sm font-bold text-amber-800">さんしじゅうに</div>
                     </div>
                     <!-- Dot Grid -->
                     <div id="dotGridContainer" class="flex flex-col gap-1.5 p-3 bg-white rounded-xl border border-amber-300 shadow-inner">
